@@ -61,4 +61,73 @@ clear water flows from the top. The water conductor system takes the water to th
 water from the forebay is taken to the power house through a penstock. A single steel penstock
 aligned on the hill slope shall be provided to lead the flow to the power house.
 ______________
+PRIOR HISTORY
+______
+CDM Project 9167 : 4.5 MW Sechi grid-connected hydro electric project in Himachal Pradesh.
 
+Sectoral scopes	1 : Energy industries (renewable - / non-renewable sources)
+
+Activity Scale	SMALL
+
+Methodologies Used	AMS-I.D. ver. 17 - Grid connected renewable electricity generation
+Standardized baselines used	N/A
+
+Registration Date	26 Dec 12 (Date of registration action 17 May 13)   
+
+Crediting Period	28 Dec 12 - 27 Dec 19 (Renewable)
+__________________
+Subsequent crediting period(s): 28 Dec 19 - 27 Dec 26
+_____________
+Requests for Issuance
+and related documentation	
+__________
+Monitoring report: 28 Dec 2012 - 31 Jul 2015 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 41093
+
+Serial Range: Block start: IN-5-214497014-2-2-0-9167      Block end: IN-5-214538106-2-2-0-9167
+_____________
+
+Monitoring report: 01 Aug 2015 - 31 May 2016 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 8942
+
+Serial Range: Block start: IN-5-224413357-2-2-0-9167      Block end: IN-5-224422298-2-2-0-9167
+______________
+
+Monitoring report: 01 Jun 2016 - 31 Dec 2017 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 23612
+
+Serial Range: Block start: IN-5-249180122-2-2-0-9167      Block end: IN-5-249203733-2-2-0-9167
+______________
+Monitoring report: 01 Jan 2018 - 31 Mar 2019 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 14327
+
+Serial Range: Block start: IN-5-267170329-2-2-0-9167      Block end: IN-5-267184655-2-2-0-9167
+_____________
+Monitoring report: 01 Apr 2019 - 27 Dec 2019 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 13974
+
+Serial Range: Block start: IN-5-295527982-2-2-0-9167      Block end: IN-5-295541955-2-2-0-9167
+_______________
+Monitoring report: 28 Dec 2019 - 31 Dec 2020 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 14972
+
+Serial Range: Block start: IN-5-295541956-2-2-0-9167      Block end: IN-5-295556927-2-2-0-9167
+_______________
